@@ -12,7 +12,11 @@ We can see that the most trips happen by males on Thursdays around 5:00 and 6:00
 <img width="501" alt="Screen Shot 2022-11-20 at 8 06 55 AM" src="https://user-images.githubusercontent.com/111101012/202912900-7dc95f06-ae53-49e0-a7da-2902f54006d1.png">
 
 
-<img width="806" alt="Screen Shot 2022-11-20 at 8 06 26 AM" src="https://user-images.githubusercontent.com/111101012/202912910-e0bf3efc-c6af-43a1-b37a-0cfcd83033dc.png">
+<img width="1063" alt="Screen Shot 2022-11-20 at 8 12 11 AM" src="https://user-images.githubusercontent.com/111101012/202913023-50cd17cd-b96e-4601-8926-fbee4da47f4f.png">
+
 
 
 <img width="345" alt="Screen Shot 2022-11-20 at 8 06 38 AM" src="https://user-images.githubusercontent.com/111101012/202912925-af48f8fc-ac7a-4dd8-8980-800a7fcf9508.png">
+
+
+<img width="806" alt="Screen Shot 2022-11-20 at 8 06 26 AM" src="https://user-images.githubusercontent.com/111101012/202912910-e0bf3efc-c6af-43a1-b37a-0cfcd83033dc.png">
